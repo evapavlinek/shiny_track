@@ -10,4 +10,4 @@ Courses included:
 
 -   [Building Dashboards with shinydashboard](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard)
 
--   [Building Dashboards with flexdashboard](Building Dashboards with flexdashboard)
+-   [Building Dashboards with flexdashboard](https://app.datacamp.com/learn/courses/building-dashboards-with-flexdashboard)
